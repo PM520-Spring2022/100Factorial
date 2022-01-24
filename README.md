@@ -3,7 +3,7 @@
 I was just made aware of the following amusing bit of video, which shows what happens if you ask Google assistant to tell you the answer to the question "What is 100 factorial?" (i.e., 100x99x98x...x2x1):
 https://youtu.be/flqC3c2wsNI
 
-Apparently Siri gives a much more sensisble answer (and I believe the claim is that Google gets it wrong anyway!)
+Apparently Siri gives a much more sensible answer (and I believe the claim is that Google gets it wrong anyway!)
 But the question I want to ask you is the one that is asked at the end of the video: can you come up with a _simple_ way (emphasis on the _simple_ here) to work out how many trailing 0s there are when you work out "100!"?
 The claim is that if you think about it in the right way it is straightforward to work this out (i.e., you don't actually need to calculate the value of 100! exactly), but so far I have not managed to find this "right way" myself. It's bugging me, so I appeal for your help! 
 
