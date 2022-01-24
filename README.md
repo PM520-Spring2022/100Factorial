@@ -4,7 +4,7 @@ I was just made aware of the following amusing bit of video, which shows what ha
 https://youtu.be/flqC3c2wsNI
 
 Apparently Siri gives a much more sensisble answer (and I believe the claim is that Google gets it wrong anyway!)
-But the question I want to ask you is to come up with a _simple_ way (emphasis on the _simple_ here) to work out how many trailing 0s there are when you work out 100!.
+But the question I want to ask you is the one that is asked at the end of the video: can you come up with a _simple_ way (emphasis on the _simple_ here) to work out how many trailing 0s there are when you work out 100!.
 The claim is that if you think about it in the right way it is strightforward to work this out (i.e., you don't actually need to calculate the value of 100! exactly), but so far I have not managed to find this "right way" myself. It's bugging me, so I appeal for your help! 
 
 I will create an issue in this repo where we can put our thoughts as to how to simply calculate the number of trailing 0s. If you have an  answer just add a comment to the issue to explain your method.
